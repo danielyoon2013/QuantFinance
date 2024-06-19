@@ -14,5 +14,9 @@ This git repository is composed of past class/personal side projects conducted.
 # Factor Model
 - Adding Google Search Index to factor model
 
+# Others
+- Visualizing option greeks
+
 # Graph Machine Learning
 - [In Progress] Can we uncover relationship between stocks using Graph Machine Learning?
+
