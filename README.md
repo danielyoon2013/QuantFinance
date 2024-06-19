@@ -3,8 +3,8 @@
 This git repository is composed of past class/personal side projects conducted.
 
 # Systematic Trading
-- Alpha based on Long term momentum and short term reversion
-- Alpha based on EWM and RSI
+- Alpha based on long-term momentum and short-term reversion
+- Alpha based on Exponential Weighted Moving Average(EWM) and Relative Strength Index(RSI)
 - Bonds Butterfly trading strategy
 
 # Statistcal Learning
